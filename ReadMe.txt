@@ -14,3 +14,4 @@ http://www.csdn123.com/html/itweb/20131029/192741.htm
 http://jqueryui.com/themeroller/
 http://www.runoob.com/jqueryui/example-datepicker.html
 
+http://julabs.com/blog/seajs-jquery-and-plugins/
